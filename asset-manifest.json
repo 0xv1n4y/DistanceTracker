@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DistanceTracker/static/css/main.85ab975d.css",
+    "main.js": "/DistanceTracker/static/js/main.cfb83de1.js",
+    "index.html": "/DistanceTracker/index.html",
+    "main.85ab975d.css.map": "/DistanceTracker/static/css/main.85ab975d.css.map",
+    "main.cfb83de1.js.map": "/DistanceTracker/static/js/main.cfb83de1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85ab975d.css",
+    "static/js/main.cfb83de1.js"
+  ]
+}
