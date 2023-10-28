@@ -1,13 +1,146 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+
+
+/* Custom CSS for Navbar */
+.custom-navbar {
+  background-color: black;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.custom-navbar .navbar-brand {
+  font-size: 40px;
+  font-weight: 900;
+  padding: 10px;
+  color:lavender; 
+}
+
+.custom-navbar .navbar-nav .nav-link {
+  font-size: 20px;
+  font-weight: 900;
+  color:red;
+}
+
+/* .distance-calculatorcss */
+
+.distance-calculator {
+  background-color: #333; 
+  color: #fff;
+  padding: 20px;
+  height: 600px;
+   
+}
+
+.distance-calculator h2 {
+  font-size: 28px; 
+}
+
+.distance-calculator select,
+.distance-calculator table {
+  background-color: #444; 
+  color: #fff; 
+  border: none;
+}
+
+.distance-calculator select {
+  width: 100%;
+  padding: 10px;
+}
+
+.distance-calculator button {
+  background-color: #007bff; 
+  border: none;
+}
+
+.distance-calculator button:hover {
+  background-color: #0056b3; 
+}
+
+.distance-calculator button:focus {
+  box-shadow: none; 
+}
+
+.distance-calculator th,
+.distance-calculator td {
+  padding: 12px;
+}
+
+.distance-calculator table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.distance-calculator thead {
+  background-color: #212529;
+}
+
+.distance-calculator th {
+  font-weight: bold;
+}
+
+.distance-calculator tbody tr:nth-child(odd) {
+  background-color: #444;
+}
+
+.distance-calculator tbody tr:nth-child(even) {
+  background-color: #3d444a;
+}
+
+
+
+
+
+/* ShipperData.css */
+.shipper-data-container {
+  background-color: black; 
+  color: white; 
+  padding: 50px;
+  height: 700px;
+  
+}
+
+.shipper-data-container h2 {
+  font-size: 24px; 
+  margin-bottom: 20px;
+}
+
+.shipper-data-container select,
+.shipper-data-container table {
+  background-color: #343a40; 
+  color: white; 
+}
+
+.shipper-data-container select {
+  width: 100%;
+  padding: 8px;
+  border: none;
+}
+
+.shipper-data-container th,
+.shipper-data-container td {
+  padding: 10px;
+}
+
+.shipper-data-container table {
+  width: 100%;
+  border-collapse: collapse;
+  
+  
+  
+}
+
+.shipper-data-container thead {
+  background-color: #212529;
+  
+}
+
+.shipper-data-container th {
+  font-weight: bold;
+}
+
+.shipper-data-container tbody tr:nth-child(odd) {
+  background-color: #343a40;
+  
+}
+
+.shipper-data-container tbody tr:nth-child(even) {
+  background-color: #3d444a;
 }
