@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DistanceTracker/static/css/main.85ab975d.css",
-    "main.js": "/DistanceTracker/static/js/main.cfb83de1.js",
+    "main.js": "/DistanceTracker/static/js/main.b4c52123.js",
     "index.html": "/DistanceTracker/index.html",
     "main.85ab975d.css.map": "/DistanceTracker/static/css/main.85ab975d.css.map",
-    "main.cfb83de1.js.map": "/DistanceTracker/static/js/main.cfb83de1.js.map"
+    "main.b4c52123.js.map": "/DistanceTracker/static/js/main.b4c52123.js.map"
   },
   "entrypoints": [
     "static/css/main.85ab975d.css",
-    "static/js/main.cfb83de1.js"
+    "static/js/main.b4c52123.js"
   ]
 }
